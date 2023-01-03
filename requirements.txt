@@ -8,7 +8,7 @@ click-didyoumean
 click-plugins
 click-repl
 Deprecated==1.2.13
-Django==4.0.6
+Django
 kombu==5.2.4
 packaging==21.3
 prompt-toolkit==3.0.30
